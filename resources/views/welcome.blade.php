@@ -41,7 +41,8 @@
 </head>
 <body>
     <div class="card">
-        <h1>Halo Dunia! 🌍</h1>
+        <h1>Halo Dunia🌍</h1>
+        <p>saya Nofrian Safutra akan belajar terus menerus ga peduli kalau sakit sakit tai anjing ak tetap belajar demi masa depan</p>
         <p>Selamat datang di Laravel pertamaku 🎉</p>
     </div>
 </body>
